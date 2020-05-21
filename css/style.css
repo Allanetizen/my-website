@@ -3,6 +3,14 @@
     padding: 0;
 
 }
+.wwd{
+    text-align:center;
+    padding-inline-start: 50%;
+}
+h2{
+    font-size: 20px;
+    padding-left: 10%;
+}
 .header{
     height: 100vh;
 }
