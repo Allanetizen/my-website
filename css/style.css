@@ -3,14 +3,8 @@
     padding: 0;
 
 }
-.wwd{
-    text-align:center;
-    padding-inline-start: 50%;
-}
-h2{
-    font-size: 20px;
-    padding-left: 10%;
-}
+
+
 .header{
     height: 100vh;
 }
@@ -29,4 +23,15 @@ h2{
 }
 li a{
     color: blue;
+}
+.text-center{
+    padding: 0;
+    font-weight: bold;
+    font-size: x-large;
+}
+.wwd{
+    font-size: large;
+}
+.container img{
+    margin-bottom: inherit;
 }
